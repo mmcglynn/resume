@@ -1,2 +1,2 @@
 # resume
-My resule and related assets
+My resume and related assets.
