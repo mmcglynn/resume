@@ -1,0 +1,59 @@
+a {
+	color: #000;
+	text-decoration: none;
+	}
+address {
+	font-style: normal;
+}
+body {
+	margin: 0;
+	font: 400 9pt helvetica, arial, sans-serif;
+	}
+dt {
+	font-weight: bold;
+	}
+img {
+	border: 0;
+	float: right;
+	}
+ul {
+	margin: 0 0 4pt 0;
+	}
+
+	.break {
+		page-break-before: always;
+	}
+.company {
+	font-size: 11pt;
+	}
+
+footer,  .file-formats, .highlightColor, time { 
+	display: none; 
+	}
+
+ul.position {
+	margin: 0;
+	padding: 0;
+	}	
+	ul.position li {
+		list-style-type: none;
+		padding-left: 40%;
+		}
+		ul.position li.company {
+			float: left;
+			padding-left: 0;
+			}
+			
+.vcard {
+	border: 0;
+	padding-bottom: 14pt;
+	font-size: 10pt;
+	}
+	.vcard div, .vcard .email, .vcard .adr, .vcard .url {
+		display: inline;
+		float: left;
+		padding-right: 20pt;
+		}
+	.vcard img, .vcard .fn {
+		display: none;
+		}

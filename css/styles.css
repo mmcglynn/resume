@@ -1,0 +1,233 @@
+
+:root {
+    --body-background: #FFFFFF;
+    --link-color: #333399;
+    --link-color-hover:  #FFFFCC;
+    --header-color: #FFFFFF;
+    --rule-color: #DDDDDD;
+    --san-serif: 'Assistant', helvetica, arial, sans-serif;
+    --second-color: #4a9fa8;
+    --second-color-dark: #176f76;
+    --serif: 'Georgia', serif;
+    --text-color: #555555;
+}
+
+a {
+	color: var(--link-color);
+}
+a:hover {
+    color: var(--second-color);
+	background-color: var(--link-color-hover);
+}
+
+b, strong { 
+    font-weight: 700; 
+}
+
+body {
+	font-family: var(--san-serif);
+	background-color: var(--body-background);
+	color: var(--text-color);
+	margin: 0;
+    line-height: 1.25;
+}
+
+footer {
+    overflow: hidden;
+    padding: 1.5rem 0;
+    background-color: var(--second-color);
+    color: var(--header-color);
+}
+
+h1 {
+	font-size: 2.375rem;
+    margin: 0;
+    color: var(--header-color);
+}
+h2 {
+	font-size: 1.5rem;
+	color: var(--second-color-dark);
+    padding-bottom: .25em;
+}
+h4 {
+    margin: 0;
+}
+h1, h2 {
+    font-family: var(--serif);
+}
+h1, h2, h3 {
+    font-weight: 400;
+}
+
+header {
+    background-color: var(--second-color);
+    color: #FFF;
+}
+header div {
+    overflow: hidden;
+    padding: 1em;
+}
+header div ul {
+    margin: .75rem 0 2rem 0;
+}
+header div ul li {
+    font-size: .94rem;
+}
+footer ul, header ul {
+    margin: 0;
+    padding: 0;
+}
+footer ul li, header ul li {
+    list-style-type: none;
+}
+footer ul li a, header ul li a {
+    color: var(--header-color);
+}
+header ul li:last-child {
+    padding-right: 0;
+}
+header ul li:last-child:after {
+    content: '';
+	margin-left: 0;
+}
+header ul li {
+    float: left;
+    padding-right: .5em;
+}
+header ul li:after {
+    content: '\000b7';
+    margin-left: .5em;
+}
+
+main {
+    margin: 0 1em;
+}
+main section:first-child {
+    padding: 0;
+}
+main section:first-child p {
+    font-size: large;
+    line-height: 150%
+}
+
+ul li {
+    list-style-type: square;
+}
+
+section {
+    padding-top: .75rem;
+    border-top: 1px solid var(--rule-color);
+}
+section ul li {
+    margin-bottom: .25em;
+}
+
+
+/* Classes */
+.position {
+	margin: 0;
+	padding: 0;
+}	
+.position li {
+    list-style-type: none;
+}
+.position li.org {
+    margin: 1.25rem 0 .25rem 0;
+}
+.position li.date {
+    font-style: italic;
+}
+.position li.role {
+    color: var(--second-color);
+    font-weight: 700;
+}
+section ul {
+    margin-left: .75em;
+    padding-left: .75em;
+}
+section ul li {
+    margin-bottom: .5em;
+}
+
+
+@media only screen and (min-width: 1024px) {
+    
+    body {
+        font-size: medium;
+    }
+    h1 {
+	   font-size: 3em;
+    }
+    h2 {
+        margin-bottom: 0;
+    }
+    footer ul li {
+        float: left;
+        margin-right: 1em;
+    }
+    footer ul li:last-child {
+        float: right;
+        margin-right: 0;
+    }
+    header div {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        padding-top: 3em;
+    }
+    header div ul {
+        margin: 0;
+    }
+    main {
+        padding: 0 1em;
+    }
+    main, footer div, header div {
+        max-width: 880px;
+        margin: 0 auto;
+    }
+    section {
+        padding: 0 0 1em;
+        overflow: hidden;
+    }
+    .position {
+        margin-top: 1em;
+        width: 30%;
+        float: left;
+    }
+    .position li.location {
+
+    }
+    section .summary {
+        width: 70%;
+        float: left;
+    }
+
+}
+
+
+@media only print {
+    
+    body {
+        font-family: sans-serif;
+    }
+    
+    body, h1, h2, .position li strong, header li, header li a {
+        color: #000000;
+    }
+    h1 {
+
+    }
+    footer {
+        border-top: 1px solid #000000;
+    }
+    header li a {
+        text-decoration: none;
+    }
+    header {
+        background-color: #FFFFFF;
+    }
+    main {
+        margin: 0;
+    }
+
+}
