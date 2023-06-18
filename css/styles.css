@@ -34,8 +34,9 @@ body {
 
 footer {
     overflow: hidden;
-    padding: 1.5rem 0;
-    background-color: var(--second-color);
+    padding: 1em;
+    line-height: 150%;
+    background-color: var(--second-color-dark);
     color: var(--header-color);
 }
 
@@ -46,7 +47,7 @@ h1 {
 }
 h2 {
 	font-size: 1.5rem;
-	color: var(--second-color-dark);
+	color: var(--second-color);
     padding-bottom: .25em;
 }
 h4 {
@@ -60,8 +61,16 @@ h1, h2, h3 {
 }
 
 header {
-    background-color: var(--second-color);
+    /*background-color: var(--second-color);*/
+
     color: #FFF;
+
+    /*
+    * Created with https://www.css-gradient.com
+    * Gradient link: https://www.css-gradient.com/?c1=4a9fa8&c2=0c7783&gt=l&gd=dtt
+    */
+    background: #4A9FA8;
+    background: linear-gradient(180deg, #4A9FA8, #0C7783);
 }
 header div {
     overflow: hidden;
@@ -110,13 +119,15 @@ main section:first-child p {
     line-height: 150%
 }
 
+ul {
+    margin-top: 0;
+}
 ul li {
     list-style-type: square;
 }
 
 section {
-    padding-top: .75rem;
-    border-top: 1px solid var(--rule-color);
+    border-bottom: 1px solid var(--rule-color);
 }
 section ul li {
     margin-bottom: .25em;
@@ -125,7 +136,7 @@ section ul li {
 
 /* Classes */
 .position {
-	margin: 0;
+	margin: 1em 0 0;
 	padding: 0;
 }	
 .position li {
@@ -138,11 +149,13 @@ section ul li {
     font-style: italic;
 }
 .position li.role {
-    color: var(--second-color);
-    font-weight: 700;
+    font-family: var(--serif);
+    color: var(--second-color-dark);
+    font-weight: 400;
+    font-size: larger;
 }
 section ul {
-    margin-left: .75em;
+    margin-left: .125em;
     padding-left: .75em;
 }
 section ul li {
@@ -159,7 +172,12 @@ section ul li {
 	   font-size: 3em;
     }
     h2 {
+        margin-top: .5em;
         margin-bottom: 0;
+    }
+    footer {
+        margin-top: 1em;
+        padding: 1.5rem 0;
     }
     footer ul li {
         float: left;
@@ -173,7 +191,7 @@ section ul li {
         display: flex;
         justify-content: space-between;
         align-items: baseline;
-        padding-top: 3em;
+        padding-top: 5em;
     }
     header div ul {
         margin: 0;
@@ -182,24 +200,32 @@ section ul li {
         padding: 0 1em;
     }
     main, footer div, header div {
-        max-width: 880px;
+        max-width: 940px;
         margin: 0 auto;
     }
     section {
-        padding: 0 0 1em;
         overflow: hidden;
+    }
+    section ul {
+        margin-left: .75em;
     }
     .position {
         margin-top: 1em;
-        width: 30%;
+        width: 26%;
         float: left;
     }
     .position li.location {
 
     }
+
+    section {
+        padding-top: .75rem;
+        padding-bottom: .75rem;
+    }
     section .summary {
-        width: 70%;
+        width: 72%;
         float: left;
+        margin-left: 2%;
     }
 
 }
