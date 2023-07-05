@@ -1,19 +1,19 @@
 
 Michael C. McGlynn
 
-    Providence RI
-    (401) 345-2906
-    mike@reignition.net
+Providence RI
+(401) 345-2906
+mike@reignition.net
 
 I am an expert in web technology, including full-stack development, marketing technology, performance, scalability and people management. I'm adept at both written and spoken communication.
 
 In my 25+ years of experience, I've worked with a wide variety of web technologies, developing a keen sense for what works in order to deliver online experiences that drive outcomes.
 Experience
 
-    Senior Director of Digital Development
-    May 2022 – present
-    Zuri Group
-    Bend, OR
+Senior Director of Digital Development
+May 2022 – present
+Zuri Group
+Bend, OR
 
 As a Senior Director, I manage both the digital developers and the client success staff. My time is split 70/30 between people management and client work.
 
@@ -24,10 +24,10 @@ As a developer in this role, my work spans Zuri Groups digital practice, the ent
 In that capacity, I am a hands-on developer developing solutions for WordPress, Blackbaud Internet Solutions (BBIS) and Blackbaud CRM as well as a host of other services that the company provides.
 
 
-    Senior Developer
-    October 2021 – May 2022
-    Zuri Group
-    Bend, OR
+Senior Developer
+October 2021 – May 2022
+Zuri Group
+Bend, OR
 
 Working remotely as a developer, I built customizations of the Blackbaud CRM and the associated Blackbaud Internet Solutions products.
 
@@ -35,101 +35,100 @@ My accomplishments extended to the digital marketing side of the business, provi
 
 As a Senior Developer I also provided mentorship to project managers, new junior developers and functional consultants.
 
-    Associate Director of Web & Interactive
-    March 2016 – September 2021
-    Wheaton College
-    Norton, MA
+Associate Director of Web & Interactive
+March 2016 – September 2021
+Wheaton College
+Norton, MA
 
 Hands-on manager of Marketing & Communication’s web marketing channels and manage my two direct reports in support of these efforts.
 
 Key contributions
 
-    Brought transformational change to the college’s web infrastructure resulting in dramatically improved uptime and performance, with benchmarks far ahead of peer institutions.
-    Implemented web development best practices including source control, overhauled governance.
-    Lead the college’s web accessibility efforts across the college’s public websites.
-    Served as technical lead for the college’s website redesign including training and documentation for all staff.
-    Managed all third-party vendor contracts and relationships.
-    Oversaw all website technical infrastructure including Pantheon, WP Engine and Amazon AWS.
-    Lead the content strategy and web development of the college's portal.
-    Provided analytics and dashboards for the college’s online marketing activity.
+- Brought transformational change to the college’s web infrastructure resulting in dramatically improved uptime and performance, with benchmarks far ahead of peer institutions.
+- Implemented web development best practices including source control, overhauled governance.
+- Lead the college’s web accessibility efforts across the college’s public websites.
+- Served as technical lead for the college’s website redesign including training and documentation for all staff.
+- Managed all third-party vendor contracts and relationships.
+- Oversaw all website technical infrastructure including Pantheon, WP Engine and Amazon AWS.
+- Lead the content strategy and web development of the college's portal.
+- Provided analytics and dashboards for the college’s online marketing activity.
 
-    Senior Web Developer
-    August 2015 – March 2016
-    Wheaton College
-    Norton, MA
+Senior Web Developer
+August 2015 – March 2016
+Wheaton College
+Norton, MA
 
 Served as the technical lead for Wheaton’s Web Strategy team, managing the Web Developer position. Promoted to Associate Director after 6 months.
 
 Key contributions
 
-    Performed all maintenance and support of the college's digital channels.
-    Worked with stakeholders across campus to define, create, and implement digital projects.
-    Managed external consultants.
-    Coordinated web development related activities of across campus.
+- Performed all maintenance and support of the college's digital channels.
+- Worked with stakeholders across campus to define, create, and implement digital projects.
+- Managed external consultants.
+- Coordinated web development related activities of across campus.
 
-    AIS Web
-    Applications Developer
-    March 2013 – July 2015
-    Brown University
-    Providence, RI
+AIS Web Applications Developer
+March 2013 – July 2015
+Brown University
+Providence, RI
 
 My responsibilities were to maintain the legacy fundraising systems, meanwhile implementing their replacement applications, Blackbaud CRM and Blackbaud BBIS.
 
 Key contributions
 
-    Wrote updates and feature enhancements to legacy .NET 2.0 applications.
-    Came up to speed on the existing the 60+ applications maintained by Advancement.
-    Worked with design team to build themes for Brown’s fundraising application and its TouchNet payment gateway.
-    Completed TouchNet payment gateway training and oversaw uPay sites.
-    Completed Blackbaud SDK training.
+- Wrote updates and feature enhancements to legacy .NET 2.0 applications.
+- Came up to speed on the existing the 60+ applications maintained by Advancement.
+- Worked with design team to build themes for Brown’s fundraising application and its TouchNet payment gateway.
+- Completed TouchNet payment gateway training and oversaw uPay sites.
+- Completed Blackbaud SDK training.
 
-    SharePoint/Web Administrator
-    June 2011 – March 2013
-    Rhode Island School of Design
-    Providence, RI
+SharePoint/Web Administrator
+June 2011 – March 2013
+Rhode Island School of Design
+Providence, RI
 
 My position with RISD's Office of Information Technology (OIT) involved providing administrative support and development services for the institution’s SharePoint 2010 farms. I was also responsible for system integration solutions.
 
 Key contributions
 
-    Developed software including
-        an authentication system to validate users against both RISD’s Active Directory and legacy Novell LDAP environments
-        a SharePoint custom WCM (Web Content Management) site for the Service Desk’s public facing support documentation, replacing a legacy system
-        a specialized medical referral application for use by RISD’s Student Development Office
-    Created a design system and signature solution for all five OIT groups, including full branding of all Microsoft Office products used by the division.
+Developed software including
+- an authentication system to validate users against both RISD’s Active Directory and legacy Novell LDAP environments
+- a SharePoint custom WCM (Web Content Management) site for the Service Desk’s public facing support documentation, replacing a legacy system
+- a specialized medical referral application for use by RISD’s Student Development Office
+- Created a design system and signature solution for all five OIT groups, including full branding of all Microsoft Office products used by the division.
 
-    Web Developer/UI Integrator
-    7/2007 - 6/2011
-    Rhode Island School of Design
-    Providence, RI
+Web Developer/UI Integrator
+July 2007 - June 2011
+Rhode Island School of Design
+Providence, RI
 
 Key contributions
 
-    Technical lead for the full-scale redesign and development of RISD's main website.
-    Designed and developed a custom application that integrated the Enterprise Resource Planning (ERP) system’s non-relational database data into to public website.
-    Created the RISD Museum website.
-    Installed, configured, and maintained the e-commerce solutions for both RISD’s college supply store and the RISD museum’s store.
-    Led all RISD e-commerce websites through the PCI compliance process.
+- Technical lead for the full-scale redesign and development of RISD's main website.
+- Designed and developed a custom application that integrated the Enterprise Resource Planning (ERP) system’s non-relational database data into to public website.
+- Created the RISD Museum website.
+- Installed, configured, and maintained the e-commerce solutions for both RISD’s college supply store and the RISD museum’s store.
+- Led all RISD e-commerce websites through the PCI compliance process.
 
 Education
 
-    Northeastern University (5 semesters)
-    University of Massachusetts Boston Campus (3 semesters)
+Northeastern University (5 semesters)
+University of Massachusetts Boston Campus (3 semesters)
 
 Expertise
 
-    Server-side languages: PHP, ASP.NET using C# and VB, ASP MVC5
-    Database: Microsoft SQL Server, Transact-SQL, MySQL
-    Server management: AWS cloud services (Lightsail, S3, Glacier, Simple Email Service, Route 53), IIS, Apache, NodeJS
-    DOM: CSS, ES6, JQuery, npm, WebPack, Gulp, SASS
-    Serialized data: XML (XSLT, XPath, DTD, RSS), JSON, YAML
-    Content management: WordPress, Ellucian Luminis/Liferay, Symphony CMS, Blackbaud BBIS, Ektron CMS, SharePoint
-    CRM: Blackbaud CRM, Engaging Networks
-    Testing: Cypress.io, Selenium, Mocha
-    Source control: Microsoft Team Foundation System, Git, Subversion, CVS
-    Google Marketing Platform: GA4 and Universal Analytics, Data Studio, Tag Manager, Search Console
-    Project management: Atlassian (Jira, Tempo, Structure), SmartSheets, HiBob
+Server-side languages: PHP, ASP.NET using C# and VB, ASP MVC5
+Database: Microsoft SQL Server, Transact-SQL, MySQL
+Server management: AWS cloud services (Lightsail, S3, Glacier, Simple Email Service, Route 53), IIS, Apache, NodeJS
+DOM: CSS, ES6, JQuery, npm, WebPack, Gulp, SASS
+Serialized data: XML (XSLT, XPath, DTD, RSS), JSON, YAML
+Content management: WordPress, Ellucian Luminis/Liferay, Symphony CMS, Blackbaud BBIS, Ektron CMS, SharePoint
+CRM: Blackbaud CRM, Engaging Networks
+Testing: Cypress.io, Selenium, Mocha
+Source control: Microsoft Team Foundation System, Git, Subversion, CVS
+Google Marketing Platform: GA4 and Universal Analytics, Data Studio, Tag Manager, Search Console
+Project management: Atlassian (Jira, Tempo, Structure), SmartSheets, HiBob
 
-    References available upon request.
-    Binary Formats: Microsoft Word | PDF
+References available upon request.
+Binary Formats: Microsoft Word | PDF
 
