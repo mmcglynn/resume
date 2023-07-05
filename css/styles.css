@@ -6,8 +6,9 @@
     --header-color: #FFFFFF;
     --rule-color: #DDDDDD;
     --san-serif: 'Assistant', helvetica, arial, sans-serif;
-    --second-color: #4a9fa8;
-    --second-color-dark: #176f76;
+    --first-color: rgb(20,119,201);
+    --second-color: rgba(22,69,108, 0.5);
+    --second-color-dark: rgb(22,69,108);
     --serif: 'Georgia', serif;
     --text-color: #555555;
 }
@@ -47,8 +48,9 @@ h1 {
 }
 h2 {
 	font-size: 1.5rem;
-	color: var(--second-color);
+	color: var(--second-color-dark);
     padding-bottom: .25em;
+    text-transform: uppercase;
 }
 h4 {
     margin: 0;
@@ -70,7 +72,7 @@ header {
     * Gradient link: https://www.css-gradient.com/?c1=4a9fa8&c2=0c7783&gt=l&gd=dtt
     */
     background: #4A9FA8;
-    background: linear-gradient(180deg, #4A9FA8, #0C7783);
+    background: linear-gradient(180deg, var(--second-color), var(--second-color-dark));
 }
 header div {
     overflow: hidden;
@@ -150,7 +152,7 @@ section ul li {
 }
 .position li.role {
     font-family: var(--serif);
-    color: var(--second-color-dark);
+    color: var(--first-color);
     font-weight: 400;
     font-size: larger;
 }
