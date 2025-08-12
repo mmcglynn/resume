@@ -146,15 +146,17 @@ section ul li {
 }
 .position li.org {
     margin: 1.25rem 0 .25rem 0;
+    font-weight: 700;;
 }
 .position li.date {
     font-style: italic;
 }
-.position li.role {
+h3.role {
     font-family: var(--serif);
     color: var(--first-color);
     font-weight: 400;
     font-size: larger;
+    margin-bottom: .5rem;
 }
 section ul {
     margin-left: .125em;
