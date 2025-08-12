@@ -6,9 +6,9 @@
     --header-color: #FFFFFF;
     --rule-color: #DDDDDD;
     --san-serif: 'Assistant', helvetica, arial, sans-serif;
-    --first-color: rgb(20,119,201);
-    --second-color: rgba(22,69,108, 0.5);
-    --second-color-dark: rgb(22,69,108);
+    --first-color: rgb(2,119,201);
+    --second-color: rgba(2,69,108, 0.5);
+    --second-color-dark: rgb(2,69,138);
     --serif: 'Georgia', serif;
     --text-color: #555555;
 }
